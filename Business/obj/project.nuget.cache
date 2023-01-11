@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FJhdcUK5Sde29XyrJIOY02bFCSf+jxXZ8A0vkd6cI3HZVhaZJnDQ4eupjnqvn0imDzkEkSRCGsvCG8qL2Nj7Mg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\henrique lopes\\Desktop\\Api_Demo\\Api\\Business\\Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\henrique lopes\\.nuget\\packages\\fluentvalidation\\11.4.0\\fluentvalidation.11.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
